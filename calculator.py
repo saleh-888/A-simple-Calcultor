@@ -44,6 +44,6 @@ def Exit():
     if(starting == "E"):
         print('''THANK YOU FOR USING MY TooL:)
 
-        insta:darsek_
+        insta:0xdarsek
         github:saleh-888''')
 Exit()
